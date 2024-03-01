@@ -1,0 +1,50 @@
+* {
+    font-family:"Courier New", Courier, monospace;
+    font-size:20px;
+}
+
+body {
+    background-color: #F0F0F0;
+}
+
+h1 {
+    font-size:30px;
+}
+
+h2 {
+    font-size:26px;
+}
+
+h3 {
+    font-size:22px;
+}
+
+.standard, input, input:disabled, textarea, textarea:disabled, table, tr, td, th {
+    background-color:white;
+    border:1px solid lightgray;
+    border-radius:10px;
+    padding:10px;
+}
+
+table, tr, td, th {
+    border-radius:0px;
+    border-collapse:collapse;
+}
+
+:focus {
+    outline:0;
+}
+
+::-webkit-scrollbar {
+    width:10px;
+    height:10px;
+}
+
+::-webkit-scrollbar-track , ::-webkit-scrollbar-corner, ::-webkit-resizer {
+    background:none;
+}
+ 
+::-webkit-scrollbar-thumb {
+    background-color:lightgray;
+    border-radius:10px;
+}

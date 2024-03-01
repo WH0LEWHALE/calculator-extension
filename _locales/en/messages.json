@@ -1,0 +1,11 @@
+{
+    "extName": {
+        "message": "Pocket Calculator"
+    },
+    "extShortName": {
+        "message": "P.C."
+    },
+    "extDescription": {
+        "message": "A Calculator that works as extension."
+    }
+}

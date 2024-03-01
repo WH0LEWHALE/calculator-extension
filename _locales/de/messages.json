@@ -1,0 +1,11 @@
+{
+    "extName": {
+        "message": "Tasche Rechner"
+    },
+    "extShortName": {
+        "message": "T.R."
+    },
+    "extDescription": {
+        "message": "Ein Rechner, der als Erweiterung fungiert."
+    }
+}
